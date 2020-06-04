@@ -88,6 +88,9 @@
 3.3 Determine attack vectors or attack surface and recommend mitigation in a given scenario |  
 ----  |  
 
+3.4 Recommend actions based on post-incident analysis |  
+----  |  
+
 3.5 Recommend mitigation techniques for evaluated alerts from firewalls, intrusion prevention systems (IPS), data analysis tools (such as, Cisco Umbrella Investigate, Cisco Stealthwatch, and Cisco SecureX), and other systems to responds to cyber incidents |  
 ----  |  
 
